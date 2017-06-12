@@ -7,748 +7,427 @@ module.exports = {
      */
     "QUESTIONS_EN_GB" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "How many Van-Wykes live in South Carolina?": [
+                "14",
+                "11",
+                "12"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "What year did the first Van-Wyke family move down to South Carolina?": [
+                "nineteen ninety five",
+                "nineteen ninety six",
+                "two-thousand and one"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "What Van-Wyke is known for being the coolest?": [
+                "The one who was born on February twenty-third nineteen ninety",
+                "Josh Van-Wyke",
+                "Joshua David Van-Wyke"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "Who was the first of the South Carolina Van-Wykes to get married? ": [
+                "Denny Van-Wyke",
+                "Brandon Van-Wyke",
+                "Jessica Joye"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "What sport will you most likely see a Van-Wyke playing?": [
+                "Golf",
+                "Basketball",
+                "Soccer"
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+            "What year did the second Van-Wyk family move to South Carolina?": [
+                "two-thousand and one",
+                "two-thousand",
+                "nineteen ninety nine"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "How many Van-Wykes played on a varsity team for Lexington High School?": [
+                "5",
+                "4",
+                "6"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "How many of the South Carolina Van-Wykes played varsity soccer?": [
+                "2",
+                "1",
+                "3"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "Who was the last Van-Wyke to get married in South Carolina? ": [
+                "Brandon Van-Wyke",
+                "Amanda Van-Wyke",
+                "Jake Van-Wyke"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "How many Van-Wykes played on a varsity team for a high school in South Carolina?": [
+                "6",
+                "5",
+                "4"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "Denny and Jacque Van-Wyke have lived in how many different locations in South Carolina:": [
+                "4",
+                "2",
+                "3"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "How many Van-Wykes have at one point, simultaneously owned two different houses in South Carolina?": [
+                "2",
+                "1",
+                "3"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "How many of the Carolina Van-Wykes have lived in the Netherlands?": [
+                "3",
+                "2",
+                "1"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "Who was the first of the Van-Wykes to move to South Carolina, and finish kindergarten through twelfth grade? ": [
+                "Josh Van Wyke",
+                "Molly Van-Wyke",
+                "Griffen Van-Wyke"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "Who was the first Van-Wyke to move to the upstate of South Carolina?": [
+                "The one who temporarily lost their way in life, and thought orange and purple would look good in their closet. Ahem... Molly Van-Wyke",
+                "Josh Van-Wyke",
+                "Molly Van-Wyke"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "How many different locations in South Carolina have Van-Wykes attended college?": [
+                "4",
+                "3",
+                "2"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "Throughout college, how many different Van-Wykes did Josh Van-Wyke live with?": [
+                "3",
+                "4",
+                "2"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "Who was the first Van-Wyke to work for another company, besides Pella Window and Door, in South Carolina?": [
+                "Amanda Van-Wyke",
+                "Brandon Van-Wyke",
+                "Jake Van-Wyke"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "What was the first vehicle purchased by a Van-Wyke in South Carolina?": [
+                "Ford Explorer",
+                "Ford Expedition",
+                "Ford Mustang"
             ]
         },
         {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "Who was the first Van-Wyke to graduate from a high school other than Lexington High School? ": [
+                "Denny Van-Wyke",
+                "Griffen Van-Wyke",
+                "Sage Van-Wyke"
             ]
         }
     ],
     "QUESTIONS_EN_US" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "How many Van-Wykes live in South Carolina?": [
+                "14",
+                "11",
+                "12"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "What year did the first Van-Wyke family move down to South Carolina?": [
+                "nineteen ninety five",
+                "nineteen ninety six",
+                "two-thousand and one"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "What Van-Wyke is known for being the coolest?": [
+                "The one who was born on February twenty-third nineteen ninety",
+                "Josh Van-Wyke",
+                "Joshua David Van-Wyke"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "Who was the first of the South Carolina Van-Wykes to get married? ": [
+                "Denny Van-Wyke",
+                "Brandon Van-Wyke",
+                "Jessica Joye"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "What sport will you most likely see a Van-Wyke playing?": [
+                "Golf",
+                "Basketball",
+                "Soccer"
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+            "What year did the second Van-Wyk family move to South Carolina?": [
+                "two-thousand and one",
+                "two-thousand",
+                "nineteen ninety nine"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "How many Van-Wykes played on a varsity team for Lexington High School?": [
+                "5",
+                "4",
+                "6"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "How many of the South Carolina Van-Wykes played varsity soccer?": [
+                "2",
+                "1",
+                "3"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "Who was the last Van-Wyke to get married in South Carolina? ": [
+                "Brandon Van-Wyke",
+                "Amanda Van-Wyke",
+                "Jake Van-Wyke"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "How many Van-Wykes played on a varsity team for a high school in South Carolina?": [
+                "6",
+                "5",
+                "4"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "Denny and Jacque Van-Wyke have lived in how many different locations in South Carolina:": [
+                "4",
+                "2",
+                "3"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "How many Van-Wykes have at one point, simultaneously owned two different houses in South Carolina?": [
+                "2",
+                "1",
+                "3"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "How many of the Carolina Van-Wykes have lived in the Netherlands?": [
+                "3",
+                "2",
+                "1"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "Who was the first of the Van-Wykes to move to South Carolina, and finish kindergarten through twelfth grade? ": [
+                "Josh Van Wyke",
+                "Molly Van-Wyke",
+                "Griffen Van-Wyke"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "Who was the first Van-Wyke to move to the upstate of South Carolina?": [
+                "The one who temporarily lost their way in life, and thought orange and purple would look good in their closet. Ahem... Molly Van-Wyke",
+                "Josh Van-Wyke",
+                "Molly Van-Wyke"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "How many different locations in South Carolina have Van-Wykes attended college?": [
+                "4",
+                "3",
+                "2"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "Throughout college, how many different Van-Wykes did Josh Van-Wyke live with?": [
+                "3",
+                "4",
+                "2"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "Who was the first Van-Wyke to work for another company, besides Pella Window and Door, in South Carolina?": [
+                "Amanda Van-Wyke",
+                "Brandon Van-Wyke",
+                "Jake Van-Wyke"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "What was the first vehicle purchased by a Van-Wyke in South Carolina?": [
+                "Ford Explorer",
+                "Ford Expedition",
+                "Ford Mustang"
             ]
         },
         {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "Who was the first Van-Wyke to graduate from a high school other than Lexington High School? ": [
+                "Denny Van-Wyke",
+                "Griffen Van-Wyke",
+                "Sage Van-Wyke"
             ]
         }
     ],
     "QUESTIONS_DE_DE" : [
         {
-            "Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "Wie viele Van-Wykes leben in South Carolina?": [
+                "14",
+                "11",
+                "12"
             ]
         },
         {
-            "Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in. ": [
-                "Japan",
-                "USA",
-                "Finnland",
-                "Deutschland",
-                "Kanada",
-                "Norwegen",
-                "Frankreich"
+            "In welchem Jahr ging die erste Van-Wyke-Familie nach South Carolina?": [
+                "1996",
+                "1995",
+                "2001"
             ]
         },
         {
-            "Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen. Wie heißt sie?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pfeffer Minstix"
+            "Was Van-Wyke bekannt ist, dass er der coolste?": [
+                "Derjenige, der am Februar zwanzigundneunzig neunzehn neunzig geboren wurde",
+                "Josh Van-Wyke",
+                "Joshua David Van-Wyke"
             ]
         },
         {
-            "Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle. ": [
-                "Weiblich",
-                "Männlich",
-                "Weiblich und männlich",
-                "Kann man nicht sagen"
+            "Wer war der erste der South Carolina Van-Wykes, um zu heiraten?": [
+                "Denny Van-Wyke",
+                "Brandon Van-Wyke",
+                "Jessica Joye"
             ]
         },
         {
-            "Was essen Rentiere?": [
-                "Flechten",
-                "Gras",
-                "Blätter",
-                "Beeren"
+            "Welcher Sport wird am meisten von den Van-Wykes gespielt?": [
+                "das Golf",
+                "der Basketball",
+                "Fußball"
             ]
         },
         {
-            "Welche Aussage ist nicht richtig?": [
-                "Karibus leben auf allen Kontinenten",
-                "Karibus und Rentiere gehören derselben Gattung an ",
-                "Karibus sind größer als Rentiere",
-                "Rentiere leben in Skandinavien und Russland"
-            ]
-        },
-        {
-            "In welchem Jahr kam Rudolph ins Fernsehen?": [
-                "1964",
-                "1979",
+            "Welches Jahr hat die zweite Van-Wyke-Familie nach South Carolina gezogen?": [
+                "2001",
                 "2000",
-                "1956"
+                "1999"
             ]
         },
         {
-            "Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "Wie viele Van Wykes spielten auf einem Universitätsteam für Lexington High School?": [
+                "5",
+                "4",
+                "6"
             ]
         },
         {
-            "Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "Wie viele der South Carolina Van-Wykes spielten Uni-Fußbal?": [
+                "2",
+                "1",
+                "3"
             ]
         },
         {
-            "Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "Wer war der letzte Van-Wyke, der in South Carolina heiratete? ": [
+                "Brandon Van-Wyke",
+                "Amanda Van-Wyke",
+                "Jake Van-Wyke"
             ]
         },
         {
-            "Wer hat die Geschichte von Rudolph erfunden?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "Wie viele Van-Wykes spielten auf einem High-School-Uni-Team in South Carolina?": [
+                "6",
+                "5",
+                "4"
             ]
         },
         {
-            "Wo findest du keine Rentiere?": [
-                "Nordpol",
-                "Lappland",
-                "Korvatunturi-Berge",
-                "Finnland"
+            "Denny und Jacque Van-Wyke haben gelebt, wie viele verschiedene Standorte in South Carolina:": [
+                "4",
+                "2",
+                "3"
             ]
         },
         {
-            "Warum können die Rentiere des Weihnachtsmanns fliegen?": [
-                "Magischer Staub der Rentiere",
-                "Fusion",
-                "Amanita muscaria",
-                "Elfen"
+            "Wie viele Van-Wykes haben an einem Punkt gleichzeitig zwei verschiedene Häuser in South Carolina besessen?": [
+                "2",
+                "1",
+                "3"
             ]
         },
         {
-            "Wieviele Rentierhufe gibt es hier einschließlich Rudolph?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "Wie viele der Carolina Van-Wykes haben in den Niederlanden gelebt?": [
+                "3",
+                "2",
+                "1"
             ]
         },
         {
-            "Der Weihnachtsmann hat nur ein weibliches Rentier. Wie heißt es?": [
-                "Blitzen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "Wer war der erste der Van Wykes, um nach South Carolina zu ziehen und den Kindergarten durch die zwölfte Klasse zu beenden? ": [
+                "Josh Van Wyke",
+                "Molly Van-Wyke",
+                "Griffen Van-Wyke"
             ]
         },
         {
-            "Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "Wer war der erste Van-Wyke, um in den Hochland von South Carolina zu ziehen?": [
+                "Die, die vorübergehend ihren Weg im Leben verloren haben, und dachte, dass Orange und Purpur in ihrem Schrank gut aussehen würden. Schmerzen ... Molly Van-Wyke",
+                "Josh Van-Wyke",
+                "Molly Van-Wyke"
             ]
         },
         {
-            "Wie hieß der Vater von Rudolph?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "Wie viele verschiedene Standorte in South Carolina haben Van-Wykes besucht College?": [
+                "4",
+                "3",
+                "2"
             ]
         },
         {
-            "Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "Während des College, wie viele verschiedene Van-Wykes hat Josh Van-Wyke mit gelebt?": [
+                "3",
+                "4",
+                "2"
             ]
         },
         {
-            "Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "Wer war der erste Van-Wyke, der für ein anderes Unternehmen neben Pella Window und Door in South Caolina arbeitete?": [
+                "Amanda Van-Wyke",
+                "Brandon Van-Wyke",
+                "Jake Van-Wyke"
             ]
         },
         {
-            "Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?": [
-                "Schwarzer Schlamm",
-                "Sack",
-                "Kissenbezug",
-                "Socke"
+            "Was war das erste Fahrzeug, das von einem Van-Wyke in South Carolina gekauft wurde?": [
+                "Ford Explorer",
+                "Ford Expedition",
+                "Ford Mustang"
             ]
         },
         {
-            "Was möchte die Misfit-Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?": [
-                "Zahnarzt",
-                "Rentier",
-                "Spielzeugmacher",
-                "Kerzenmacher"
-            ]
-        },
-        {
-            "Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?": [
-                "Konnte nicht schwimmen",
-                "War immer hungrig",
-                "Zuckerstangen",
-                "Schielte"
-            ]
-        },
-        {
-            "Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?": [
-                "Pfefferminz",
-                "Gold",
-                "Indien",
-                "Polarbären"
-            ]
-        },
-        {
-            "Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?": [
-                "Viereckige Räder",
-                "Keine Dampfmaschine",
-                "Farbe stimmt nicht",
-                "Pfeift nicht"
-            ]
-        },
-        {
-            "Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?": [
-                "Sturm",
-                "Kein Schnee",
-                "Kein Spielzeug",
-                "Die Rentiere waren krank"
-            ]
-        },
-        {
-            "Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?": [
-                "Oink",
-                "Knurr",
-                "Wauwau",
-                "Miau"
-            ]
-        },
-        {
-            "Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "Wie weit ziehen Rentiere auf ihren Wanderungen?": [
-                "4800 km",
-                "1100 km",
-                "800 km",
-                "0 km"
-            ]
-        },
-        {
-            "Wie schnell läuft ein Rentier?": [
-                "77 km pro Stunde",
-                "27 km pro Stunde",
-                "30 km pro Stunde",
-                "22 km pro Stunde",
-                "83 km pro Stunde",
-                "65 km pro Stunde"
+            "Wer war der erste Van-Wyke, der von einem Gymnasium als der Lexington High School absolvierte? ": [
+                "Denny Van-Wyke",
+                "Griffen Van-Wyke",
+                "Sage Van-Wyke"
             ]
         }
     ]
