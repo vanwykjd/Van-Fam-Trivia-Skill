@@ -98,7 +98,7 @@ module.exports = {
             ]
         },
         {
-            "Who was the first of the Van-Wykes to move to South Carolina, and finish kindergarten through twelfth grade? ": [
+            "Who was the first of the Van-Wykes to finish kindergarten through twelfth grade in South Carolina? ": [
                 "Josh Van Wyke",
                 "Molly Van-Wyke",
                 "Griffen Van-Wyke"
@@ -240,7 +240,7 @@ module.exports = {
             ]
         },
         {
-            "Who was the first of the Van-Wykes to move to South Carolina, and finish kindergarten through twelfth grade? ": [
+            "Who was the first of the Van-Wykes to finish kindergarten through twelfth grade in South Carolina? ": [
                 "Josh Van Wyke",
                 "Molly Van-Wyke",
                 "Griffen Van-Wyke"

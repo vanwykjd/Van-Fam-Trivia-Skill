@@ -1,5 +1,5 @@
 "use strict";
-var APP_ID = amzn1.ask.skill.d3ac7cdb-93a8-4279-929f-083eed673bc6;
+var APP_ID = undefined;
 
 var ANSWER_COUNT = 3; // The number of possible answers per trivia question.
 var GAME_LENGTH = 10;  // The number of questions per trivia game.
@@ -18,9 +18,8 @@ var languageString = {
     "en": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "Carolina Van-Wyke Trivia", // Be sure to change this for your skill.
-            "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the number of the answer. " +
-            "For example, say one, two, or three. To start a new game at any time, say, start game. ",
+            "GAME_NAME" : "Van Fam Trivia", // Be sure to change this for your skill.
+            "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the number of the answer. " + "For example, say one, two, or three. To start a new game at any time, say, start game. ",
             "REPEAT_QUESTION_MESSAGE": "To repeat the last question, say, repeat. ",
             "ASK_MESSAGE_START": "Would you like to start playing?",
             "HELP_REPROMPT": "To give an answer to a question, respond with the number of the answer. ",
@@ -31,13 +30,12 @@ var languageString = {
             "HELP_UNHANDLED": "Say yes to continue, or no to end the game.",
             "START_UNHANDLED": "Say start to start a new game.",
             "NEW_GAME_MESSAGE": "Welcome to %s. ",
-            "WELCOME_MESSAGE": "I will ask you %s questions, try to get as many right as you can. " +
-            "Just say the number of the answer. Let\'s begin. ",
+            "WELCOME_MESSAGE": "I will ask you %s questions, try to get as many right as you can. " + "Just say the number of the answer. Let\'s begin. ",
             "ANSWER_CORRECT_MESSAGE": "correct. ",
             "ANSWER_WRONG_MESSAGE": "wrong. ",
             "CORRECT_ANSWER_MESSAGE": "The correct answer is %s: %s. ",
             "ANSWER_IS_MESSAGE": "That answer is ",
-            "TELL_QUESTION_MESSAGE": "Question %s. %s ",
+            "TELL_QUESTION_MESSAGE": "Question %s. %s <break time='1s'/> ",
             "GAME_OVER_MESSAGE": "You got %s out of %s questions correct. Thank you for playing!",
             "SCORE_IS_MESSAGE": "Your score is %s. "
         }
@@ -45,21 +43,20 @@ var languageString = {
     "en-US": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "Carolina Van-Wyke Trivia" // Be sure to change this for your skill.
+            "GAME_NAME" : "Van Fam Trivia" // Be sure to change this for your skill.
         }
     },
     "en-GB": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_GB"],
-            "GAME_NAME" : "British version of Carolina Van-Wyke Trivia" // Be sure to change this for your skill.
+            "GAME_NAME" : "British version of Van Fam Trivia" // Be sure to change this for your skill.
         }
     },
     "de": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_DE_DE"],
-            "GAME_NAME" : "Wissenswertes über Carolina VanWyke in Deutsch", // Be sure to change this for your skill.
-            "HELP_MESSAGE": "Ich stelle dir %s Multiple-Choice-Fragen. Antworte mit der Zahl, die zur richtigen Antwort gehört. " +
-            "Sage beispielsweise eins, zwei, drei oder vier. Du kannst jederzeit ein neues Spiel beginnen, sage einfach „Spiel starten“. ",
+            "GAME_NAME" : "Wissenswertes über Van Fam in Deutsch", // Be sure to change this for your skill.
+            "HELP_MESSAGE": "Ich stelle dir %s Multiple-Choice-Fragen. Antworte mit der Zahl, die zur richtigen Antwort gehört. " + "Sage beispielsweise eins, zwei, drei oder vier. Du kannst jederzeit ein neues Spiel beginnen, sage einfach „Spiel starten“. ",
             "REPEAT_QUESTION_MESSAGE": "Wenn die letzte Frage wiederholt werden soll, sage „Wiederholen“ ",
             "ASK_MESSAGE_START": "Möchten Sie beginnen?",
             "HELP_REPROMPT": "Wenn du eine Frage beantworten willst, antworte mit der Zahl, die zur richtigen Antwort gehört. ",
@@ -84,7 +81,7 @@ var languageString = {
 };
 
 var Alexa = require("alexa-sdk");
-var APP_ID = amzn1.ask.skill.d3ac7cdb-93a8-4279-929f-083eed673bc6;
+var APP_ID = undefined;
 
 exports.handler = function(event, context, callback) {
     var alexa = Alexa.handler(event, context);
@@ -129,7 +126,7 @@ var startStateHandlers = Alexa.CreateStateHandler(GAME_STATES.START, {
         var repromptText = this.t("TELL_QUESTION_MESSAGE", "1", spokenQuestion);
 
         for (var i = 0; i < ANSWER_COUNT; i++) {
-            repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". ";
+            repromptText += ((i+1).toString() + ". ") + roundAnswers[i] + ".<break time='1s'/> ";
         }
 
         speechOutput += repromptText;
@@ -137,6 +134,7 @@ var startStateHandlers = Alexa.CreateStateHandler(GAME_STATES.START, {
         Object.assign(this.attributes, {
             "speechOutput": repromptText,
             "repromptText": repromptText,
+            "repeatText":  "<prosody rate='slow'>" + repromptText + "</prosody>",
             "currentQuestionIndex": currentQuestionIndex,
             "correctAnswerIndex": correctAnswerIndex + 1,
             "questions": gameQuestions,
@@ -162,7 +160,7 @@ var triviaStateHandlers = Alexa.CreateStateHandler(GAME_STATES.TRIVIA, {
         this.emitWithState("StartGame", false);
     },
     "AMAZON.RepeatIntent": function () {
-        this.emit(":ask", this.attributes["speechOutput"], this.attributes["repromptText"]);
+        this.emit(":ask", this.attributes["repeatText"], this.attributes["repromptText"]);
     },
     "AMAZON.HelpIntent": function () {
         this.handler.state = GAME_STATES.HELP;
@@ -270,7 +268,7 @@ function handleUserGuess(userGaveUp) {
         var repromptText = this.t("TELL_QUESTION_MESSAGE", questionIndexForSpeech.toString(), spokenQuestion);
 
         for (var i = 0; i < ANSWER_COUNT; i++) {
-            repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". "
+            repromptText += (i+1).toString() + ".<break time='1s'/> " + roundAnswers[i] + ". ";
         }
 
         speechOutput += userGaveUp ? "" : this.t("ANSWER_IS_MESSAGE");
@@ -279,6 +277,7 @@ function handleUserGuess(userGaveUp) {
         Object.assign(this.attributes, {
             "speechOutput": repromptText,
             "repromptText": repromptText,
+            "repeatText":  "<prosody rate='slow'>" + repromptText + "</prosody>",
             "currentQuestionIndex": currentQuestionIndex,
             "correctAnswerIndex": correctAnswerIndex + 1,
             "questions": gameQuestions,
