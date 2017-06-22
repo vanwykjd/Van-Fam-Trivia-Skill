@@ -42,7 +42,7 @@ module.exports = {
             ]
         },
         {
-            "What year did the second Van-Wyk family move to South Carolina?": [
+            "What year did the second Van-Wyke family move to South Carolina?": [
                 "two-thousand and one",
                 "two-thousand",
                 "nineteen ninety nine"
@@ -99,7 +99,7 @@ module.exports = {
         },
         {
             "Who was the first of the Van-Wykes to finish kindergarten through twelfth grade in South Carolina? ": [
-                "Josh Van Wyke",
+                "Josh Van-Wyke",
                 "Molly Van-Wyke",
                 "Griffen Van-Wyke"
             ]
@@ -184,7 +184,7 @@ module.exports = {
             ]
         },
         {
-            "What year did the second Van-Wyk family move to South Carolina?": [
+            "What year did the second Van-Wyke family move to South Carolina?": [
                 "two-thousand and one",
                 "two-thousand",
                 "nineteen ninety nine"
@@ -241,7 +241,7 @@ module.exports = {
         },
         {
             "Who was the first of the Van-Wykes to finish kindergarten through twelfth grade in South Carolina? ": [
-                "Josh Van Wyke",
+                "Josh Van-Wyke",
                 "Molly Van-Wyke",
                 "Griffen Van-Wyke"
             ]
@@ -333,7 +333,7 @@ module.exports = {
             ]
         },
         {
-            "Wie viele Van Wykes spielten auf einem Universitätsteam für Lexington High School?": [
+            "Wie viele Van-Wykes spielten auf einem Uni-team für Lexington High School?": [
                 "5",
                 "4",
                 "6"
@@ -354,7 +354,7 @@ module.exports = {
             ]
         },
         {
-            "Wie viele Van-Wykes spielten auf einem High-School-Uni-Team in South Carolina?": [
+            "Wie viele Van-Wykes spielten Sport in einer weiterführenden Schule in South Carolina?": [
                 "6",
                 "5",
                 "4"
@@ -382,8 +382,8 @@ module.exports = {
             ]
         },
         {
-            "Wer war der erste der Van Wykes, um nach South Carolina zu ziehen und den Kindergarten durch die zwölfte Klasse zu beenden? ": [
-                "Josh Van Wyke",
+            "Wer war der erste der Van-Wykes, um nach South Carolina zu gehen und die Grundschule und die Sekundarschule zu beenden? ": [
+                "Josh Van-Wyke",
                 "Molly Van-Wyke",
                 "Griffen Van-Wyke"
             ]

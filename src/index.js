@@ -1,5 +1,5 @@
 "use strict";
-var APP_ID = undefined;
+var APP_ID = "amzn1.ask.skill.d3ac7cdb-93a8-4279-929f-083eed673bc6";
 
 var ANSWER_COUNT = 3; // The number of possible answers per trivia question.
 var GAME_LENGTH = 10;  // The number of questions per trivia game.
@@ -81,7 +81,7 @@ var languageString = {
 };
 
 var Alexa = require("alexa-sdk");
-var APP_ID = undefined;
+var APP_ID = "amzn1.ask.skill.d3ac7cdb-93a8-4279-929f-083eed673bc6";
 
 exports.handler = function(event, context, callback) {
     var alexa = Alexa.handler(event, context);
